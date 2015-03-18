@@ -1,0 +1,5 @@
+contextsDir=D\:\\Tool\\apache-tomcat-8.0.20\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+tomcatConfigFile=D\:\\Tool\\apache-tomcat-8.0.20\\conf\\server.xml
+tomcatDir=D\:\\Tool\\apache-tomcat-8.0.20
+tomcatVersion=tomcatV8
